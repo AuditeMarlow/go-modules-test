@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/AuditeMarlow/go-modules-test/compare/v1.1.1...v2.0.0) (2025-06-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* v2
+
+### Features
+
+* v2 ([10a5942](https://github.com/AuditeMarlow/go-modules-test/commit/10a5942194a49b28300a2bdbf10ae0404e3a5310))
+
 ## [1.1.1](https://github.com/AuditeMarlow/go-modules-test/compare/v1.1.0...v1.1.1) (2025-06-01)
 
 
