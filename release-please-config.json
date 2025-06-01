@@ -1,10 +1,10 @@
 {
   "packages": {
     ".": {
-      "release-type": "go"
+      "release-type": "go",
+      "extra-files": [
+        "main.go"
+      ]
     }
-  },
-  "extra-files": [
-    "main.go"
-  ]
+  }
 }
