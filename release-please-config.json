@@ -1,7 +1,7 @@
 {
+  "release-type": "go",
   "packages": {
     ".": {
-      "release-type": "go",
       "extra-files": [
         "main.go"
       ]
