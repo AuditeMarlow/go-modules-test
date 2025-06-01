@@ -2,9 +2,6 @@
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "release-type": "go",
   "extra-files": [
-    {
-      "type": "generic",
-      "path": "main.go"
-    }
+    "main.go"
   ]
 }
