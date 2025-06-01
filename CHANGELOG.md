@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/AuditeMarlow/go-modules-test/compare/v1.0.0...v1.1.0) (2025-06-01)
+
+
+### Features
+
+* add version to output ([d060cca](https://github.com/AuditeMarlow/go-modules-test/commit/d060cca82cdfd1130e086960d5bbb4d55827f5f7))
+
 ## 1.0.0 (2025-06-01)
 
 
