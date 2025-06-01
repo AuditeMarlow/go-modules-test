@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/AuditeMarlow/go-modules-test/compare/v1.1.1...v1.2.0) (2025-06-01)
+
+
+### Features
+
+* shorten program output ([c27f5d3](https://github.com/AuditeMarlow/go-modules-test/commit/c27f5d350c1df8293f340a23e2bfabefc85054ee))
+
 ## [1.1.1](https://github.com/AuditeMarlow/go-modules-test/compare/v1.1.0...v1.1.1) (2025-06-01)
 
 
